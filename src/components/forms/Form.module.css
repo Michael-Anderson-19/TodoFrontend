@@ -15,12 +15,10 @@
 .formItem label {
   width: 95px;
   text-align: left;
-  /* border: 1px solid black; */
   display: flex;
   align-items: center;
   font-weight: 600;
   color: rgb(27, 27, 27);
-  /* height: 100%; */
 }
 
 .formItem select,

@@ -18,7 +18,6 @@ const AddTodoForm = () => {
           Description
         </label>
         <textarea rows={5} cols={20} />
-        {/* <input type="text" id="description" name="description" /> */}
       </div>
       <div className={Style.formItem}>
         <label htmlFor="description" type="textarea">
